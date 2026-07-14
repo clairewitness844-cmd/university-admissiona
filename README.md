@@ -1,1 +1,1 @@
-# university-admissiona
+# university-admissions
